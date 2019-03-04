@@ -1,0 +1,21 @@
+#main {
+		text-align: left;
+}
+
+h2 {
+	font-weight: bold;
+	margin-top: 40px;
+	font-size: 150%;
+}
+
+p {
+	text-align: justify;
+	text-indent: 40px;
+}
+
+input[type="checkbox"], input[type="radio"] {
+	-webkit-appearance: checkbox;
+   	-moz-appearance:    checkbox;
+   	appearance:         checkbox;
+   	
+}
