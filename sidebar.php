@@ -37,6 +37,12 @@
           <span>Pronostiques du jour</span></a>
       </li>
 
+      <li class="nav-item">
+        <a class="nav-link" href="creerPronostique.php">
+          <i class="fas fa-fw fa-folder-plus"></i>
+          <span>Créer un pronostique</span></a>
+      </li>
+
       
 
       <!-- Divider -->
@@ -47,35 +53,39 @@
         Autres
       </div>
 
-      
-      <!-- Nav Item - Charts -->
-      <li class="nav-item">
-        <a class="nav-link" href="charts.php">
-          <i class="fas fa-fw fa-cog"></i>
-          <span>Paramètres</span></a>
-      </li>
 
       <!-- Nav Item - Charts -->
       <li class="nav-item">
-        <a class="nav-link" href="charts.php">
-          <i class="fas fa-fw fa-wrench"></i>
-          <span>Gestion</span></a>
-      </li>
-
-
-      <!-- Nav Item - Charts -->
-      <li class="nav-item">
-        <a class="nav-link" href="charts.php">
+        <a class="nav-link" href="historique.php">
           <i class="fas fa-fw fa-folder"></i>
-          <span>Historiques</span></a>
+          <span>Historique</span></a>
       </li>
 
       <!-- Nav Item - Tables -->
       <li class="nav-item">
-        <a class="nav-link" href="tables.php">
+        <a class="nav-link" href="agenda.php">
           <i class="fas fa-fw fa-table"></i>
           <span>Agenda</span></a>
       </li>
+      
+      <!-- Nav Item - Charts -->
+      <li class="nav-item">
+        <a class="nav-link" href="profil.php">
+          <i class="fas fa-fw fa-wrench"></i>
+          <span>Profil</span></a>
+      </li>
+      
+      <!-- Nav Item - Charts -->
+      <li class="nav-item">
+        <a class="nav-link" href="parametres.php">
+          <i class="fas fa-fw fa-cog"></i>
+          <span>Paramètres</span></a>
+      </li>
+
+
+
+
+      
 
       <!-- Divider -->
       <hr class="sidebar-divider d-none d-md-block">
